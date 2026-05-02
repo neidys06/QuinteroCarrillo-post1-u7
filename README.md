@@ -120,11 +120,11 @@ El bucle termina al encontrar el carácter "$".
 
 ## Resultados obtenidos
 
-| Checkpoint | Programa | Resultado esperado | Estado |
-|---|---|---|---|
-| CP1 | p1a.com | Tres líneas de texto en pantalla | ✅ |
-| CP2 | p1b.com | "A" amarillo/azul y "U7" rojo/negro | ✅ |
-| CP3 | p1c.com | Título verde brillante en fila 5 col 25 | ✅ |
+| Checkpoint | Programa | Resultado esperado | 
+|---|---|---|
+| CP1 | p1a.com | Tres líneas de texto en pantalla | 
+| CP2 | p1b.com | "A" amarillo/azul y "U7" rojo/negro | 
+| CP3 | p1c.com | Título verde brillante en fila 5 col 25 | 
 
 ---
 
